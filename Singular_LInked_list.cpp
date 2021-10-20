@@ -258,17 +258,3 @@ class linkedlist
         }
     }
 };
-
-
-int main()
-{
-    linkedlist<int> a;
-    a.insertAtBeg(3);
-    a.insertAtBeg(2);
-    a.insertAtBeg(1);
-    a.insertAtBeg(12);
-
-    cout<<a.issort()<<endl;
-    a.traverse();
-    return 0;
-}
