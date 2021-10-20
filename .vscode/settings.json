@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "cmath": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "new": "cpp",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "random": "cpp",
+        "array": "cpp",
+        "iterator": "cpp",
+        "istream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
